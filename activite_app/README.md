@@ -1,27 +1,12 @@
-# ActiviteApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![BillsService](https://user-images.githubusercontent.com/22898939/206048444-a20c0e7a-b99a-4799-aa19-04071949370e.JPG)
+![billsServiceWithproducts](https://user-images.githubusercontent.com/22898939/206048467-136d056f-eb6c-4187-a91e-769ea98525b5.JPG)
+![customerervice](https://user-images.githubusercontent.com/22898939/206048505-d24facc7-a258-4340-b6a9-9fc4baf87031.JPG)
+![customers](https://user-images.githubusercontent.com/22898939/206048510-6390b2b3-e9e3-4371-b737-0c2b85d68d2a.JPG)
+![detailBilling](https://user-images.githubusercontent.com/22898939/206048511-af824ac9-0e88-44c6-8255-ea436e9eaeeb.JPG)
+![eureka](https://user-images.githubusercontent.com/22898939/206048513-2d1a5e60-dcd7-47d6-a3d0-cb4ed0abc602.JPG)
+![listbills](https://user-images.githubusercontent.com/22898939/206048524-684304e4-6a73-437f-b51e-f83ab789e073.JPG)
+![products](https://user-images.githubusercontent.com/22898939/206048526-90948e6f-0eed-4131-9458-2b5f1e2a5fc6.JPG)
+![productService](https://user-images.githubusercontent.com/22898939/206048532-6fcc6814-b5d8-49a8-a477-59cda2d7c62b.JPG)
+![TokenpasswordPostman](https://user-images.githubusercontent.com/22898939/206048536-40e2aa60-f0d4-4493-8272-1ee0d81a5794.JPG)
+![tokenResfreshPostman](https://user-images.githubusercontent.com/22898939/206048538-14e6360f-7bca-4ace-ba9f-28f28f3996a2.JPG)
+![TokenSecretPostman](https://user-images.githubusercontent.com/22898939/206048540-5962c809-a3fa-44f2-a187-c445aa552191.JPG)
