@@ -53,11 +53,14 @@ list products
 # Kafka
 
 Producer
+
 ![proj5-supplier](https://user-images.githubusercontent.com/22898939/213318870-723ef25c-7a73-4683-b5cf-60c99123b1ce.JPG)
 
-Consumer
 Kafka analytics
+
 ![proj5-groupby](https://user-images.githubusercontent.com/22898939/213318908-21b861f4-2340-44f9-bc33-300bf5dc0599.JPG)
+
 ![proj5-analytics](https://user-images.githubusercontent.com/22898939/213318927-89c06789-94b7-40f4-a609-687309c07693.JPG)
+
 ![proj5-index](https://user-images.githubusercontent.com/22898939/213318942-d381a7b0-7f40-40f9-9eb5-43124dd0ab57.JPG)
 
