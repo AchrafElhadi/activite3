@@ -50,7 +50,7 @@ se connecter
 list products
 ![products_conn](https://user-images.githubusercontent.com/22898939/206066207-a4488a73-3bc6-4631-8f1d-8dc1f3403f5d.JPG)
 
-# Microservices
+# Kafka
 
 Producer
 ![proj5-supplier](https://user-images.githubusercontent.com/22898939/213318870-723ef25c-7a73-4683-b5cf-60c99123b1ce.JPG)
